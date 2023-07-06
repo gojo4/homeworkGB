@@ -31,20 +31,5 @@ public class OOPMain {
         System.out.println(lulu);
         System.out.println(kleo);
         System.out.println(plate);
-
-//        Cat first = new Cat("Name", 150, 5);
-//        Cat second = new Cat("Name", 100, 10);
-//
-//        System.out.println(first == second); // false
-//        System.out.println(first.equals(second));
-//
-//        System.out.println(first.hashCode());
-//        System.out.println(second.hashCode());
-
-//        HashSet<Cat> cats = new HashSet<>();
-//        cats.add(first);
-//        cats.add(second);
-//        System.out.println(cats);
-
     }
 }

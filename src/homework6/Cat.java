@@ -22,7 +22,6 @@ public class Cat {
         this.satiety = satiety;
     }
 
-    // getter
     public String getName() {
         return name;
     }
@@ -55,10 +54,4 @@ public class Cat {
         return Objects.hash(name);
     }
 
-    // if obj1.equals(obj2) => obj1.hashcode() == obj2.hashcode()
-
-    //    // setter
-//    public void setName(String catName) {
-//        name = catName;
-//    }
 }
